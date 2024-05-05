@@ -4,7 +4,7 @@ This is a Test website. Below are some links and resources:
 - E-mail: lore.lo2310@gmail.com
 - [PETMAT UFU](https://www.instagram.com/petmatufu/)
 
-[[Another page]]
+[Another page](another-page.md)
 
 Here it is a picture of PETMAT people:
 
